@@ -46,7 +46,7 @@ export default async function HomePage() {
         <div className="relative z-10 flex h-full items-center px-10">
           <div className="max-w-xl text-white">
             <h1 className="text-5xl font-semibold leading-tight md:text-6xl">
-              Modern feminine essentials
+              Modern essentials
             </h1>
             <p className="mt-4 text-lg text-neutral-200">
               Soft silhouettes, timeless textures, and effortless style.
