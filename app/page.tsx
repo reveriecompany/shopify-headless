@@ -143,7 +143,7 @@ export default async function HomePage() {
         <p className="text-sm uppercase tracking-widest text-neutral-400">
           Moongchi
         </p>
-        <h3 className="mt-4 text-3xl font-semibold">
+        <h3 className="mt-4 text-md font-semibold">
           Where Designers Unite
         </h3>
       </section>
